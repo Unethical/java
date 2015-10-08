@@ -1,0 +1,8 @@
+RomanNumeral XXXIX 39
+RomanNumeral LXI 61
+RomanNumeral CLIV 154
+RomanNumeral CLIIII 154
+RomanNumeral CCXXII 222
+RomanNumeral XML 1040
+RomanNumeral MCMD 2400
+RomanNumeral MMMCDLXI 3461
